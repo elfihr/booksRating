@@ -1,5 +1,5 @@
 
-##### BOOK Ratings
+#### BOOK Ratings
 
 A full-stack project
 
@@ -21,3 +21,6 @@ mysql => errno: 1251, sqlMessage: 'Client does not support authentication protoc
 
 i installed mysql dependences in api and tried to connect to the server and ocorred errpr 1251. 
 to fix i used mysql2  instead mysql
+
+####Prints
+![image](https://github.com/user-attachments/assets/041f6f85-c025-4363-b21c-6641b489ff1a)
