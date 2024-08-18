@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+:root{
+  --main-font-color: #FEFAE0;
+  --bg-main-color:#fed7aa;
+}
+
+.fcolor01{
+  color: var(--main-font-color);
+}
+
+.bgmain{
+  background: var(--bg-main-color);
+
+}
+
+.checks i{
+ color:#00712D;
+}
+
+.btnMain{
+  background-color: #0ea5e9;
+  padding:0.5rem 1rem ;
+  border-radius: 0.5rem;
+  transition: 0.3s ease-in-out;
+  &:hover{
+    background-color: #011724;
+    color:white;
+  }
+  &:active{
+    transform: scale(0.95);
+    
+  }
+}
+
+
