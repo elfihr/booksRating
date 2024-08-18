@@ -15,6 +15,10 @@ mysql2,nodemon,cors and express
 
 axios,react-router-dom
 
+### Updates
+
+A ser implemntado entrada de imagens para capas futuramente
+
 ## Errors
 
 mysql => errno: 1251, sqlMessage: 'Client does not support authentication protocol requested by server; consider upgrading MySQL client
